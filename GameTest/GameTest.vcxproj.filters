@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="GameTest.cpp" />
+    <ClCompile Include="App\app.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="App\main.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="App\SimpleSprite.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="App\SimpleSound.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="App\SimpleController.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="App\TextureLoader.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Attacker.cpp" />
+    <ClCompile Include="Classes\Defender.cpp" />
+    <ClCompile Include="Classes\Ball.cpp" />
+    <ClCompile Include="Classes\Interface.cpp" />
+    <ClCompile Include="Classes\Player.cpp" />
+    <ClCompile Include="Classes\LevelBuilder.cpp" />
+    <ClCompile Include="Classes\Path.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App\app.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="App\AppSettings.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="App\main.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="App\SimpleSprite.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="App\SimpleSound.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="App\SimpleController.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="App\TextureLoader.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Attacker.h" />
+    <ClInclude Include="Classes\Defender.h" />
+    <ClInclude Include="Classes\Ball.h" />
+    <ClInclude Include="Constants.h" />
+    <ClInclude Include="Classes\Interface.h" />
+    <ClInclude Include="Classes\Player.h" />
+    <ClInclude Include="Classes\LevelBuilder.h" />
+    <ClInclude Include="Classes\Path.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="API">
+      <UniqueIdentifier>{3e1485bf-3449-4966-8760-976ee866544b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="TestData\attacker1.bmp" />
+    <Image Include="TestData\ball.bmp" />
+    <Image Include="TestData\bg.bmp" />
+    <Image Include="TestData\cade.bmp" />
+    <Image Include="TestData\hunter.bmp" />
+    <Image Include="TestData\jared.bmp" />
+    <Image Include="TestData\luka.bmp" />
+    <Image Include="TestData\heart.bmp" />
+    <Image Include="TestData\boss.bmp" />
+  </ItemGroup>
+</Project>

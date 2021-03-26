@@ -1,0 +1,5 @@
+﻿  GameTest.cpp
+C:\Users\Forrest\Documents\UbisoftNEXT\API\GameTest\GameTest.cpp(187,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  GameTest.vcxproj -> C:\Users\Forrest\Documents\UbisoftNEXT\API\x64\Debug\GameTest.exe
+  C:\Users\Forrest\Documents\UbisoftNEXT\API\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied

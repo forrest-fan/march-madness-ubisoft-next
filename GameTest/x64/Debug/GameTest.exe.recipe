@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Forrest\Documents\UbisoftNEXT\API\x64\Debug\GameTest.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Forrest\Documents\UbisoftNEXT\API\GameTest\TestData\attacker1.bmp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Forrest\Documents\UbisoftNEXT\API\GameTest\TestData\ball.bmp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Forrest\Documents\UbisoftNEXT\API\GameTest\TestData\bg.bmp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Forrest\Documents\UbisoftNEXT\API\GameTest\TestData\boss.bmp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Forrest\Documents\UbisoftNEXT\API\GameTest\TestData\cade.bmp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Forrest\Documents\UbisoftNEXT\API\GameTest\TestData\heart.bmp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Forrest\Documents\UbisoftNEXT\API\GameTest\TestData\hunter.bmp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Forrest\Documents\UbisoftNEXT\API\GameTest\TestData\jared.bmp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Forrest\Documents\UbisoftNEXT\API\GameTest\TestData\luka.bmp</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
